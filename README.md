@@ -1,2 +1,2 @@
 # first
-<span font-color:red>hellow github</span>
+<span style="color:red">hellow github</span>
